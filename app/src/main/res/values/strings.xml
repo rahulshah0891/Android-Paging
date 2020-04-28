@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Paging Demo</string>
+
+    <string name="title_users">Users List</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+</resources>
