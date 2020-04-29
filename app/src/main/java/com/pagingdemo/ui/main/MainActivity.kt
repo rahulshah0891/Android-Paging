@@ -24,7 +24,6 @@ class MainActivity : BaseActivity<MainViewModel, ActivityMainBinding>() {
                 layoutManager = LinearLayoutManager(this@MainActivity)
                 adapter = userAdapter
             }
-            userRecyclerView.layoutManager = LinearLayoutManager(this@MainActivity)
         }
 
         initObservers()
